@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 .idea
 m2-pcr-rmi-etu.iml
 target
-=======
+
 # Compiled class file
 *.class
 
@@ -26,4 +26,3 @@ target
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
->>>>>>> c7883df2dbbc28e4721aa2e9cf5b041e7c7495cc
